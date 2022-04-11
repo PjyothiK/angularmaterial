@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "apple is red",
+      "date": "2022-04-12T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "bulb",
+      "category": "Electronics",
+      "freshness": "Second  hand",
+      "price": 1200,
+      "comment": "good",
+      "date": "2022-04-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "keyboard",
+      "category": "Electronics",
+      "freshness": "Second  hand",
+      "price": 1000,
+      "comment": "good",
+      "date": "2022-04-06T18:30:00.000Z",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
